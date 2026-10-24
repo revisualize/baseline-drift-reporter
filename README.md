@@ -9,6 +9,8 @@
 [![content-policy](https://github.com/revisualize/baseline-drift-reporter/actions/workflows/content-policy.yml/badge.svg)](https://github.com/revisualize/baseline-drift-reporter/actions/workflows/content-policy.yml)
 [![license: all rights reserved](https://img.shields.io/badge/license-all%20rights%20reserved-lightgrey)](LICENSE)
 
+**Project page:** [revisualized.com/projects/baseline-drift-reporter](https://revisualized.com/projects/baseline-drift-reporter)
+
 A nightly snapshot-and-diff of the things that quietly change under a running system: installed packages, enabled services, listening sockets, mounts, and the hashes of configuration files you name. Drift is reported. Intentional change is blessed into a new baseline with one command.
 
 It observes. It never reverts.
