@@ -7,9 +7,9 @@
 # Description:  Behavioural tests for capture, comparison, and the
 #               baseline accept workflow, including the silent
 #               empty-capture regression.
-# Status:       production
-# Revision:     1
-# Updated:      2026-08-05
+# Status:       tested
+# Revision:     3
+# Updated:      October 2026
 # Requires:     bats, bash 4.2 or newer
 # Included by:  .github/workflows/ci.yml
 # Provides:     test coverage for baseline_drift_reporter.sh
