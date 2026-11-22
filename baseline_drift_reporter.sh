@@ -7,9 +7,9 @@
 # Description:  Snapshot system state, diff it against an accepted
 #               baseline, and report drift. Observes only; never
 #               reverts, never remediates.
-# Status:       production
-# Revision:     2
-# Updated:      2026-08-05
+# Status:       tested
+# Revision:     4
+# Updated:      October 2026
 # Requires:     Bash 4.2 or newer, GNU coreutils, diff, sha256sum,
 #               findmnt, systemctl, ss, and one of dpkg-query or rpm
 # Included by:  standalone command line tool; sourceable for testing
